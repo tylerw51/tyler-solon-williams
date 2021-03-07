@@ -24,7 +24,7 @@ sections:
 
       #### 2011 - MA, Media, Culture, and Communication, New York University
 
-          Thesis: “The Mediated Meme: Form and Change in Viral Media Culture”
+          Thesis: The Mediated Meme: Form and Change in Viral Media Culture
     actions: []
     type: section_content
     section_id: highereducation

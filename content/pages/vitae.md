@@ -27,7 +27,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-    section_id: higher
+    section_id: highereducation
 seo:
   title: ''
   description: ''

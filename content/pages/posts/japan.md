@@ -34,5 +34,6 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: post
+excerpt: I am working on setting up a website
 ---
 I have a website

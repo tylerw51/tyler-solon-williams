@@ -9,7 +9,7 @@ sections:
       I am graduating with a PhD in Communication Studies from the University of
       Iowa. I study animation, television, and history. 
     actions:
-      - label: C
+      - label: Test
         url: '#'
         style: link
         icon_class: dev

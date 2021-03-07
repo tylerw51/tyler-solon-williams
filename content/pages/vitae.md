@@ -12,7 +12,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-  - title: lorem-ipsum
+  - title: Higher Education
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

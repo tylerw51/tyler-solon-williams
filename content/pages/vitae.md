@@ -14,17 +14,14 @@ sections:
     type: section_content
   - title: Higher Education
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      #### 2021
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      PhD, Communication Studies, University of Iowa
+      Dissertation: “Understanding the Early Television Cartoon”
+      Directors: Timothy Havens and Thomas Lamarre (University of Chicago)
+      Committee members: Kembrew McLeod, Christopher Goetz, Laura Rigal
+      Status: Dissertation completed and accepted; graduation in May.
     actions: []
     type: section_content
     section_id: highereducation

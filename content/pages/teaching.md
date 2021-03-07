@@ -4,7 +4,7 @@ hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: Teaching Philosophy
-    section_id: lorem-ipsum
+    section_id: teachingphilosophy
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

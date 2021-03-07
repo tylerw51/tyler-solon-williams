@@ -10,7 +10,7 @@ sections:
       Iowa. I study animation, television, and history. 
     actions:
       - label: Contact Me
-        url: /contact
+        url: /contact/
         style: button
         icon_class: dev
         new_window: false

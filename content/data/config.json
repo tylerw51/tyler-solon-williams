@@ -37,7 +37,7 @@
             },
             {
                 "label": "Media",
-                "url": "/ME",
+                "url": "/media/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Vitae
 hide_title: true
 excerpt: lorem-ipsum
 sections: []

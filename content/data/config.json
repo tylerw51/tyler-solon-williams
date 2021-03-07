@@ -47,13 +47,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/tyler-s-williams-81338933/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/tylerw51",
                 "style": "icon",
@@ -61,6 +54,13 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/tyler-s-williams-81338933/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
             }
         ],
         "profile_img": "images/wonderful-turmeric.jpg"

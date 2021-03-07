@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Download CV
         url: '#'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false

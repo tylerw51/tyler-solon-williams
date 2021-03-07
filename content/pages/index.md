@@ -55,5 +55,4 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: advanced
-excerpt: hi
 ---

@@ -6,7 +6,6 @@ excerpt: >-
   see the use of tatami mats and sliding doors that break down the distinction
   between rooms and indoor and outdoor space.
 date: '2021-03-06'
-content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: A Weekend in Japan
   description: >-

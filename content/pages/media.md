@@ -6,7 +6,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -14,9 +14,12 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+
+      ![](https://unsplash.com/photos/YNliXm_hMn8)
     actions: []
     type: section_content
 seo:

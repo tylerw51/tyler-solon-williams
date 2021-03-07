@@ -33,6 +33,8 @@ sections:
     section_id: teachingdemovideo
     image_alt: lorem-ipsum
     content: |
+      <https://www.youtube.com/watch?v=bt69InGd3dk&ab_channel=tylerw51>
+
       https://www.youtube.com/watch?v=bt69InGd3dk\&ab_channel=tylerw51
     actions: []
     type: section_content

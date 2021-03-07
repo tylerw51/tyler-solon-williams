@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Teaching",
                 "url": "/teaching/",
                 "style": "link",
@@ -34,6 +29,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
             }
         ],
         "has_social": true,

@@ -36,7 +36,7 @@ sections:
     actions: []
     type: section_content
   - title: Teaching Responsibilities
-    section_id: lorem-ipsum
+    section_id: teachingresponsibilities
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

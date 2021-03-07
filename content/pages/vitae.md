@@ -15,9 +15,9 @@ sections:
   - title: Higher Education
     image_alt: lorem-ipsum
     content: |
-      #### 2021
+      #### 2021 - PhD, Communication Studies, University of Iowa
 
-      PhD, Communication Studies, University of Iowa
+
       Dissertation: “Understanding the Early Television Cartoon”
       Directors: Timothy Havens and Thomas Lamarre (University of Chicago)
       Committee members: Kembrew McLeod, Christopher Goetz, Laura Rigal

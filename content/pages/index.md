@@ -21,10 +21,7 @@ sections:
     title: I have a website!
     content: |
       Moneer Rifai is helping me launch my new personal site.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     posts_number: 4

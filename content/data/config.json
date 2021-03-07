@@ -27,11 +27,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "Teaching",
                 "url": "/teaching/",
                 "style": "link",

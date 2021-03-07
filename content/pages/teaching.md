@@ -32,17 +32,8 @@ sections:
   - title: Teaching Demo Video
     section_id: teachingdemovideo
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      https://www.youtube.com/watch?v=bt69InGd3dk\&ab_channel=tylerw51
     actions: []
     type: section_content
   - title: Teaching Responsibilities

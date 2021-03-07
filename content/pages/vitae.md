@@ -13,7 +13,6 @@ sections:
         type: action
     type: section_content
   - title: Higher Education
-    section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

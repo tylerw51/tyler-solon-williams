@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Research
 hide_title: true
 excerpt: lorem-ipsum
 sections: []

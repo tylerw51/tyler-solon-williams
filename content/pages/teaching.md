@@ -3,8 +3,7 @@ title: Teaching
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 

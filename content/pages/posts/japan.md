@@ -1,10 +1,5 @@
 ---
 title: I have a website!
-excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
 date: '2021-03-06'
 seo:
   title: A Weekend in Japan

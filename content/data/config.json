@@ -31,7 +31,7 @@
                 "type": "action"
             },
             {
-                "label": "About",
+                "label": "R",
                 "url": "/about/",
                 "style": "link"
             }

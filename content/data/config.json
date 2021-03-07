@@ -56,7 +56,7 @@
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/tylerw51",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "facebook",
                 "new_window": false,
                 "no_follow": false,

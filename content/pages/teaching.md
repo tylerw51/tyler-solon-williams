@@ -1,5 +1,4 @@
 ---
-title: TEACHING
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:

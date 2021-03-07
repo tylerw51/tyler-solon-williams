@@ -19,11 +19,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    posts_number: 0
-    actions: []
-    type: section_posts
 seo:
   title: ''
   description: ''

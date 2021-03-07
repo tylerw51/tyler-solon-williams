@@ -6,7 +6,7 @@ sections:
   - image_alt: lorem-ipsum
     actions:
       - label: Teaching Philosophy
-        url: '#'
+        url: '#teachingphilosophy'
         style: link
         icon_class: dev
         new_window: false

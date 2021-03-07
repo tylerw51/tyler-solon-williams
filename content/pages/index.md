@@ -16,13 +16,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: recent-posts
-    type: section_posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
   - section_id: about
     type: section_content
     title: About
@@ -34,6 +27,13 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
+        style: button
+  - section_id: recent-posts
+    type: section_posts
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: blog/index.html
         style: button
 seo:
   title: Stackbit Fresh Theme

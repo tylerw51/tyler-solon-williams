@@ -14,7 +14,7 @@ sections:
     type: section_content
   - title: Higher Education
     image_alt: lorem-ipsum
-    content: |
+    content: |+
       #### 2021 - PhD, Communication Studies, University of Iowa
 
       Dissertation: “Understanding the Early Television Cartoon”
@@ -24,7 +24,6 @@ sections:
 
       #### 2011 - MA, Media, Culture, and Communication, New York University
 
-          Thesis: The Mediated Meme: Form and Change in Viral Media Culture
     actions: []
     type: section_content
     section_id: highereducation

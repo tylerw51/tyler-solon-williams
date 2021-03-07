@@ -35,6 +35,8 @@ sections:
     content: |+
       <https://www.youtube.com/watch?v=bt69InGd3dk&ab_channel=tylerw51>
 
+      \<iframe <https://www.youtube.com/embed/bt69InGd3dk> /iframe>
+
     actions: []
     type: section_content
   - title: Teaching Responsibilities

@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Tyler.'
     content: >
       I am graduating with a PhD in Communication Studies from the University of
-      Iowa. I study animation, television, and history. 
+      Iowa. I study animation, television, and media history.
     actions:
       - label: Contact Me
         url: /contact/

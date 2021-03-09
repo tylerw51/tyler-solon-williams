@@ -19,8 +19,22 @@ sections:
   - section_id: about
     type: section_content
     title: I have a website!
-    content: |
-      Moneer Rifai is helping me launch my new personal site.
+    content: >
+      This site collects my professional academic materials together in one
+      place. The Home page tells a bit about me, and contains a Contact Me
+      button. The Vitae page summarizes my professional credentials and academic
+      experiences. Teaching presents my teaching philosophy, an edited teaching
+      demo video of a popular lecture I delivered, and summarizes the
+      responsibilities I have taken on in my teaching assignments. Research
+      makes my completed dissertation available. It also lists my recent
+      academic publications, awards, and presentations. Media is more personal,
+      and presents media I have produced. I am a professional proofreader and
+      computer support technician. I have produced some rough animation, as well
+      as design/art images. I play Tetris competitively, and have wide-ranging
+      tastes in music. I am learning how to edit this website using this useful
+      tool called Stackbit, which my colleague Moneer Rifai is helping me with,
+      so I am still working on filling some of this content in. Thanks for
+      stopping by...
     actions: []
 seo:
   title: Stackbit Fresh Theme

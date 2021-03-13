@@ -28,12 +28,6 @@ sections:
       He has six years of experience teaching media studies, interpersonal
       communication, and rhetoric.
     actions: []
-  - section_id: lorem-ipsum
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: CONTACT ME
-    type: section_form
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme

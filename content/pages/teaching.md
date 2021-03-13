@@ -14,7 +14,6 @@ sections:
         type: action
     type: section_content
   - title: Teaching Philosophy
-    section_id: teachingphilosophy
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

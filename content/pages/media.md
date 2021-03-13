@@ -17,7 +17,7 @@ sections:
       - dolor sit amet
     actions:
       - label: Animation
-        url: '#'
+        url: '#animation'
         style: link
         icon_class: dev
         new_window: false

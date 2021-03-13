@@ -22,7 +22,7 @@ sections:
     actions: []
     type: section_content
     section_id: animation
-  - title: lorem-ipsum
+  - title: Design & Art
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

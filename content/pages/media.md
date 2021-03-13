@@ -24,7 +24,7 @@ sections:
         no_follow: false
         type: action
       - label: Design & Art
-        url: '#'
+        url: '#design&art'
         style: link
         icon_class: dev
         new_window: false

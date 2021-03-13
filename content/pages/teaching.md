@@ -28,6 +28,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    section_id: teachingphilosophy
   - title: Teaching Demo Video
     section_id: teachingdemovideo
     image_alt: lorem-ipsum

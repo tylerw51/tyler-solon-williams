@@ -5,7 +5,8 @@ sections:
   - image_alt: lorem-ipsum
     actions:
       - label: Download CV
-        url: '#'
+        url: >-
+          #https://drive.google.com/file/d/1Zf1_MKDKCBJ91xdMRVOJ5qhMLOyDjHMx/view?usp=sharing
         style: button
         icon_class: dev
         new_window: false

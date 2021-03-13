@@ -149,17 +149,7 @@ sections:
   - title: Teaching Experience
     section_id: teachingexperience
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "##### Instructor, University of Iowa\n\n2016\tTelevision Criticism\n\n2012-13\tMedia, Advertising, and Society (two terms)\n\n##### Teaching Assistant, University of Iowa\n\n2017\tMedia, Music, and Culture\n\n2014-15\tCore Concepts in Communication Studies (two terms)\n\n2014-17\tCommunication Theory in Everyday Life (three terms)\n\n2013-16\tThe Art of Persuading Others (two terms)\n\n##### Adjunct Instructor, Mercy College (NY)\n\n2011\tMedia in America\n\n##### Grader, New York University\n\n2010\tAdvertising and Society\n\n##### Assistant Teacher, Public School 9, Brooklyn, NY\n\n2009-10\tReading and math, first grade classroom, through federal America Reads / America Counts program\n\n"
     actions: []
     type: section_content
 seo:

@@ -57,17 +57,7 @@ sections:
   - title: Publications
     section_id: publications
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "2022\t“United States Studio Animation after 1950 – TV.” Entry in Encyclopedia of Animation Studies. Edited by Eric Herhuth and Annabelle Honess Roe. Bloomsbury. Entry invited for forthcoming volume.\n\n2021\tHanna and Barbera: Conversations. Co-editing interview collection with Kevin Sandler. University Press of Mississippi. Securing permissions and preparing manuscript for forthcoming volume.\n\n2021\t“Saturday Morning Trojan Mouse: The Origins of the Creative-Driven Television Cartoon.” With Lev Cantoral. In Animated Mischief: Thirty Years of Cartoon Subversiveness, 1988-2018, edited by Brian Duchaney and David Silverman. McFarland & Company. Chapter revised, awaiting final comments, for forthcoming volume.\n\n2021\t“A Cultural History of the Digital Present,” book review of Kenneth Cmiel and John Durham Peters, Promiscuous Knowledge: Information, Image, and Other Truth Games in History (2020). Journal of Communication Inquiry. Review undergoing peer review and copy editing in advance of publication in forthcoming issue.\n\n2019\t“Children’s Television Programming.” Entry in The Sage International Encyclopedia of Mass Media and Society. Edited by Debra L. Merskin. Sage.\n\n"
     actions: []
     type: section_content
   - title: Awards & Fellowships

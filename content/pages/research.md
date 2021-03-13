@@ -51,7 +51,8 @@ sections:
       https://drive.google.com/file/d/1br7K6MC8ubJpICCOnDbugsIYaOSge7Uf/view?usp=sharing
     actions:
       - label: Download Dissertation
-        url: '#'
+        url: >-
+          #https://drive.google.com/file/d/1br7K6MC8ubJpICCOnDbugsIYaOSge7Uf/view?usp=sharing
         style: link
         icon_class: dev
         new_window: false

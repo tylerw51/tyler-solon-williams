@@ -55,7 +55,7 @@ sections:
     actions: []
     type: section_content
   - title: Music
-    section_id: lorem-ipsum
+    section_id: music
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

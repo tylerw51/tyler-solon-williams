@@ -66,6 +66,35 @@ sections:
     actions: []
     type: section_content
     section_id: animation
+  - title: Gaming
+    section_id: gaming
+    image_alt: lorem-ipsum
+    content: |
+      ##### Competitive Tetris Player
+
+      A recent game on Jstris
+
+      https://www.youtube.com/watch?v=2exsQRFoXhQ
+    actions: []
+    type: section_content
+  - title: Music
+    section_id: music
+    image_alt: lorem-ipsum
+    content: |
+      ##### Spotify Profile
+
+      https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg
+    actions: []
+    type: section_content
+  - title: Editing
+    section_id: editing
+    image_alt: lorem-ipsum
+    content: |
+      ##### Reedsy Editor Profile
+
+      https://reedsy.com/tyler-williams
+    actions: []
+    type: section_content
   - title: Design & Art
     section_id: design&art
     image_alt: lorem-ipsum
@@ -94,35 +123,6 @@ sections:
 
 
       ![](/images/Creatures%20Thumb.png)
-    actions: []
-    type: section_content
-  - title: Gaming
-    section_id: gaming
-    image_alt: lorem-ipsum
-    content: |
-      ##### Competitive Tetris Player
-
-      A recent game on Jstris
-
-      https://www.youtube.com/watch?v=2exsQRFoXhQ
-    actions: []
-    type: section_content
-  - title: Music
-    section_id: music
-    image_alt: lorem-ipsum
-    content: |
-      ##### Spotify Profile
-
-      https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg
-    actions: []
-    type: section_content
-  - title: Editing
-    section_id: editing
-    image_alt: lorem-ipsum
-    content: |
-      ##### Reedsy Editor Profile
-
-      https://reedsy.com/tyler-williams
     actions: []
     type: section_content
 seo:

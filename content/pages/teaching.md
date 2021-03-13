@@ -12,15 +12,15 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Teaching Demo Video
-        url: '#teachingdemovideo'
+      - label: Teaching Experience
+        url: '#teachingexperience'
         style: link
         icon_class: dev
         new_window: false
         no_follow: false
         type: action
-      - label: Teaching Experience
-        url: '#teachingexperience'
+      - label: Teaching Demo Video
+        url: '#teachingdemovideo'
         style: link
         icon_class: dev
         new_window: false

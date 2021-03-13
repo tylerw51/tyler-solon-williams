@@ -18,7 +18,7 @@ sections:
         type: action
   - section_id: about
     type: section_content
-    title: I have a website!
+    title: ABOUT
     content: >
       Tyler's completed dissertation, “Understanding the Early Television
       Cartoon,” proposes a theoretical model explaining how animation was made

@@ -50,7 +50,7 @@ sections:
 
       https://drive.google.com/file/d/1br7K6MC8ubJpICCOnDbugsIYaOSge7Uf/view?usp=sharing
     actions:
-      - label: lorem-ipsum
+      - label: Download Dissertation
         url: '#'
         style: link
         icon_class: dev

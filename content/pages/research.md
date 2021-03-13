@@ -38,17 +38,17 @@ sections:
   - title: Dissertation Document
     section_id: dissertationdocument
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Understanding the Early Television Cartoon
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Dissertation - Communication Studies - The University of Iowa
 
 
-      - Lorem ipsum
+      2021
 
-      - dolor sit amet
+
+      https://drive.google.com/file/d/1br7K6MC8ubJpICCOnDbugsIYaOSge7Uf/view?usp=sharing
     actions: []
     type: section_content
   - title: Publications

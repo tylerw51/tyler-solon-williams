@@ -53,7 +53,7 @@ sections:
       - label: Download Dissertation
         url: >-
           #https://drive.google.com/file/d/1br7K6MC8ubJpICCOnDbugsIYaOSge7Uf/view?usp=sharing
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false

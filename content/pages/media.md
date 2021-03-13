@@ -31,7 +31,7 @@ sections:
         no_follow: false
         type: action
       - label: Gaming
-        url: '#'
+        url: '#gaming'
         style: link
         icon_class: dev
         new_window: false

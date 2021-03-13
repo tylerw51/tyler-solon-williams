@@ -145,6 +145,8 @@ sections:
     content: |
       The Kardashians, the Robertsons, and Celebrity Family Cultures
 
+      2014-8 The University of Iowa, Communication Theory in Everyday Life
+
       https://www.youtube.com/watch?v=bt69InGd3dk
     actions: []
     type: section_content

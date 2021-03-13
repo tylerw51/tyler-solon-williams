@@ -91,7 +91,7 @@ sections:
     section_id: gaming
     image_alt: lorem-ipsum
     content: |
-      ## Competitive Tetris Player
+      ##### Competitive Tetris Player
 
       A recent game on Jstris
 

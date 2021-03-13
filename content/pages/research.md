@@ -6,7 +6,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Dissertation Document
         url: '#'
         style: link
         icon_class: dev

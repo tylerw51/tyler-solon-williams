@@ -20,7 +20,7 @@ sections:
         no_follow: false
         type: action
       - label: Teaching Experience
-        url: '#teachingdemonstration'
+        url: '#teachingexperience'
         style: link
         icon_class: dev
         new_window: false

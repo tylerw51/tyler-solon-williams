@@ -38,7 +38,7 @@ sections:
         no_follow: false
         type: action
       - label: Music
-        url: '#'
+        url: '#music'
         style: link
         icon_class: dev
         new_window: false

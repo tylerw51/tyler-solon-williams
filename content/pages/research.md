@@ -4,7 +4,7 @@ hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: Dissertation Document
-    section_id: lorem-ipsum
+    section_id: dissertationdocument
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

@@ -36,7 +36,7 @@ sections:
     actions: []
     type: section_content
   - title: Awards & Fellowships
-    section_id: lorem-ipsum
+    section_id: awards&fellowships
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Animation
 hide_title: true
 excerpt: lorem-ipsum
 sections:

@@ -69,17 +69,31 @@ sections:
   - title: Design & Art
     section_id: design&art
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ##### Design (Color)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      ##### ![](/images/4%20Complementary%20Thumb.png)
 
-      - dolor sit amet
+
+
+
+      ##### Design (Gestalt)&#xA;
+
+
+      #####
+      ![](https://preview--tyler-solon-williams-425f3.stackbit.dev/images/4%20Figure-Ground%20Thumb.png)     
+      &#xA;
+
+
+      ##### Art (Pixel)
+
+
+
+
+      ![](/images/Creatures%20Thumb.png)
     actions: []
     type: section_content
   - title: Gaming

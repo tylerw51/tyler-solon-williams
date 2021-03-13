@@ -20,7 +20,7 @@ sections:
     actions: []
     type: section_content
   - title: Publications
-    section_id: lorem-ipsum
+    section_id: publications
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

@@ -36,7 +36,7 @@ sections:
         type: action
     type: section_content
   - title: Dissertation
-    section_id: dissertationdocument
+    section_id: dissertation
     image_alt: lorem-ipsum
     content: |
       Understanding the Early Television Cartoon

@@ -19,7 +19,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Teaching Demo Video
+      - label: Teaching Demonstration
         url: '#teachingdemovideo'
         style: link
         icon_class: dev

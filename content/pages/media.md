@@ -23,7 +23,7 @@ sections:
     type: section_content
     section_id: animation
   - title: Design & Art
-    section_id: lorem-ipsum
+    section_id: design&art
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

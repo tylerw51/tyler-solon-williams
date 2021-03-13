@@ -20,35 +20,13 @@ sections:
     type: section_content
     title: I have a website!
     content: >
-      Welcome. This site collects my professional academic materials, and some
-      personal ones, together in one place. 
+      Tyler's completed dissertation, “Understanding the Early Television
+      Cartoon,” proposes a theoretical model explaining how animation was made
+      for television in the early years of the medium. 
 
 
-      *   The Home page tells a bit about me, and a means of contacting me 
-
-
-      *   The Vitae page summarizes my professional credentials and academic
-      experiences 
-
-
-      *   Teaching presents my teaching philosophy, an edited teaching demo
-      video of a popular lecture I delivered, and summarizes the
-      responsibilities I have taken on in my teaching assignments 
-
-
-      *   Research makes my completed dissertation available. It also lists my
-      recent academic publications, awards, and presentations 
-
-
-      *   Media is more personal, and presents media I have produced. I am a
-      professional proofreader and computer support technician. I have produced
-      some rough animation, as well as design/art images. I play Tetris
-      competitively, and have wide-ranging tastes in music 
-
-
-      I am learning how to edit this website using this useful tool called
-      Stackbit, with help from my colleague Moneer Rifai. I am still working on
-      filling some of this content in. Thanks for stopping by. :)
+      He has six years of experience teaching media studies, interpersonal
+      communication, and rhetoric.
     actions: []
 seo:
   title: Stackbit Fresh Theme

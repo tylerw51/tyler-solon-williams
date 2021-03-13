@@ -140,7 +140,7 @@ sections:
     actions: []
     type: section_content
   - title: Teaching Demonstration
-    section_id: teachingdemovideo
+    section_id: teachingdemonstration
     image_alt: lorem-ipsum
     content: |
       The Kardashians, the Robertsons, and Celebrity Family Cultures

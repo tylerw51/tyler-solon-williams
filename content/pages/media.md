@@ -61,7 +61,7 @@ sections:
     content: |
       ##### Competitive Tetris Player
 
-      A recent game on Jstris
+      A recent game of Jstris
 
       https://www.youtube.com/watch?v=2exsQRFoXhQ
     actions: []

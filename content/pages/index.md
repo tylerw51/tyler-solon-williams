@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tyler.'
     content: >
       I am graduating with a PhD in Communication Studies from the University of
       Iowa. I study animation, television, and media history.

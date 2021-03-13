@@ -90,17 +90,12 @@ sections:
   - title: Gaming
     section_id: gaming
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Competitive Tetris Player
 
+      A recent game on Jstris
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      https://www.youtube.com/watch?v=2exsQRFoXhQ
     actions: []
     type: section_content
   - title: Music

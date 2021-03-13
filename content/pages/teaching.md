@@ -20,7 +20,7 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: '#'
+        url: '#teachingresponsibilities'
         style: link
         icon_class: dev
         new_window: false

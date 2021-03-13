@@ -39,7 +39,7 @@ sections:
     actions: []
     type: section_content
   - title: Gaming
-    section_id: lorem-ipsum
+    section_id: gaming
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum

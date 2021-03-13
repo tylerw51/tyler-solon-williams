@@ -3,7 +3,7 @@ title: Research
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: 'Dissertation '
+  - title: Dissertation Document
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

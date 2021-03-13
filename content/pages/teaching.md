@@ -136,11 +136,12 @@ sections:
   - title: Teaching Demo Video
     section_id: teachingdemovideo
     image_alt: lorem-ipsum
-    content: |+
+    content: |
+      The Kardashians, the Robertsons, and Celebrity Family Cultures 
+
       <https://www.youtube.com/watch?v=bt69InGd3dk&ab_channel=tylerw51>
 
       \<iframe <https://www.youtube.com/embed/bt69InGd3dk> /iframe>
-
     actions: []
     type: section_content
   - section_id: teachingresponsibilities

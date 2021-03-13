@@ -19,13 +19,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Teaching Responsibilities
-        url: '#teachingresponsibilities'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
     type: section_content
   - title: Teaching Philosophy
     image_alt: lorem-ipsum

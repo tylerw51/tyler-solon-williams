@@ -23,13 +23,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Design & Art
-        url: '#design&art'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
       - label: Gaming
         url: '#gaming'
         style: link
@@ -46,6 +39,13 @@ sections:
         type: action
       - label: Editing
         url: '#editing'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+      - label: Design & Art
+        url: '#design&art'
         style: link
         icon_class: dev
         new_window: false

@@ -21,6 +21,7 @@ sections:
       ![](https://unsplash.com/photos/YNliXm_hMn8)
     actions: []
     type: section_content
+    section_id: animation
 seo:
   title: ''
   description: ''

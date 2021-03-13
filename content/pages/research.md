@@ -38,17 +38,12 @@ sections:
   - title: Dissertation
     section_id: dissertationdocument
     image_alt: lorem-ipsum
-    content: >
+    content: |
       Understanding the Early Television Cartoon
 
+      Communication Studies
 
-      Dissertation - Communication Studies - The University of Iowa
-
-
-      2021
-
-
-      https://drive.google.com/file/d/1br7K6MC8ubJpICCOnDbugsIYaOSge7Uf/view?usp=sharing
+      2021 The University of Iowa
     actions:
       - label: Download Dissertation
         url: >-

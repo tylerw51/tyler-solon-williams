@@ -13,7 +13,7 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: '#'
+        url: '#teachingdemovideo'
         style: link
         icon_class: dev
         new_window: false

@@ -54,7 +54,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Music
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

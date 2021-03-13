@@ -28,7 +28,7 @@ sections:
         no_follow: false
         type: action
       - label: Presentations
-        url: '#'
+        url: '#presentations'
         style: link
         icon_class: dev
         new_window: false

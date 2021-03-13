@@ -137,7 +137,9 @@ sections:
     section_id: teachingdemovideo
     image_alt: lorem-ipsum
     content: |
-      The Kardashians, the Robertsons, and Celebrity Family Cultures 
+      The Kardashians, the Robertsons, and Celebrity Family Cultures
+
+      https://www.youtube.com/watch?v=bt69InGd3dk
     actions: []
     type: section_content
   - section_id: teachingresponsibilities

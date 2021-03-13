@@ -122,17 +122,10 @@ sections:
   - title: Editing
     section_id: editing
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##### Reedsy Editor Profile
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      https://reedsy.com/tyler-williams
     actions: []
     type: section_content
 seo:

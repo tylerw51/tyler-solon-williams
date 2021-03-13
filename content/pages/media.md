@@ -16,7 +16,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Animation
         url: '#'
         style: link
         icon_class: dev

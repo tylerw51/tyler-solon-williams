@@ -106,17 +106,10 @@ sections:
   - title: Music
     section_id: music
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ##### Spotify Profile
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg
     actions: []
     type: section_content
   - title: Editing

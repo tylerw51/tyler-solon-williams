@@ -44,7 +44,7 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: CONTACT ME
     type: section_form
 seo:
   title: Stackbit Fresh Theme

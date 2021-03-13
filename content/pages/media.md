@@ -45,7 +45,7 @@ sections:
         no_follow: false
         type: action
       - label: Editing
-        url: '#'
+        url: '#editing'
         style: link
         icon_class: dev
         new_window: false

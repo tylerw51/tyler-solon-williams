@@ -14,7 +14,7 @@ sections:
         no_follow: false
         type: action
       - label: Publications
-        url: '#'
+        url: '#publications'
         style: link
         icon_class: dev
         new_window: false

@@ -7,7 +7,7 @@ sections:
     image_alt: lorem-ipsum
     actions:
       - label: Dissertation Document
-        url: '#'
+        url: '#dissertationdocument'
         style: link
         icon_class: dev
         new_window: false

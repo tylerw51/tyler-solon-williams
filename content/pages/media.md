@@ -54,20 +54,15 @@ sections:
     type: section_content
   - title: Animation
     image_alt: lorem-ipsum
-    content: >
-      ## Lorem ipsum
+    content: >+
+      ##### University of Iowa Student Film (Partially Animated)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Good Vibrations: Metamorphosis
 
 
-      *   Lorem ipsum
+      https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs
 
-      *   dolor sit amet
-
-
-      ![](https://unsplash.com/photos/YNliXm_hMn8)
     actions: []
     type: section_content
     section_id: animation

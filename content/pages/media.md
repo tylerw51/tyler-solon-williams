@@ -66,6 +66,8 @@ sections:
       ![](/images/Jstris%20T-Spin%20Double.png)
 
       https://www.youtube.com/watch?v=2exsQRFoXhQ
+
+      
     actions: []
     type: section_content
   - title: Music

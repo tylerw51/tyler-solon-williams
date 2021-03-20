@@ -2,6 +2,9 @@
 title: Home
 hide_title: true
 sections:
+  - image_alt: lorem-ipsum
+    actions: []
+    type: section_content
   - section_id: hero
     type: section_hero
     content: >
@@ -30,9 +33,6 @@ sections:
       He has six years of experience teaching media studies, interpersonal
       communication, and rhetoric.
     actions: []
-  - image_alt: lorem-ipsum
-    actions: []
-    type: section_content
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme

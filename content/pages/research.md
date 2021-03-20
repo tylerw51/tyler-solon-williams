@@ -94,7 +94,6 @@ sections:
       foundation for future digital media devices.
     actions: []
     type: section_content
-    title: Dissertation
   - title: Publications
     section_id: publications
     image_alt: lorem-ipsum

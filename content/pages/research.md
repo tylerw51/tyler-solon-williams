@@ -91,7 +91,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ##
+      
     actions: []
     type: section_content
   - title: Publications

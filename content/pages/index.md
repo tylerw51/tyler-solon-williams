@@ -62,7 +62,7 @@ seo:
     - name: 'twitter:title'
       value: Tyler Solon Williams
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: media studies phd
     - name: 'twitter:image'
       value: /images/Tyler%20Nice.jpg
       relativeUrl: true

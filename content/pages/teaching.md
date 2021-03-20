@@ -162,7 +162,7 @@ sections:
     actions: []
     type: section_content
   - actions:
-      - label: lorem-ipsum
+      - label: test
         url: '#'
         style: link
         icon_class: dev

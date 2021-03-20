@@ -67,7 +67,7 @@ sections:
 
       https://www.youtube.com/watch?v=2exsQRFoXhQ
 
-      [![Tetris](http://img.youtube.com/vi/2exsQRFoXhQ/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Tetris")
+      [![Tetris](http://img.youtube.com/vi/2exsQRFoXhQ/0.jpg)](https://www.youtube.com/watch?v=2exsQRFoXhQ&ab_channel=tylerw51 "Tetris")
     actions: []
     type: section_content
   - title: Music

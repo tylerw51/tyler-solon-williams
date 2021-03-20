@@ -69,10 +69,9 @@ sections:
   - title: Music
     section_id: music
     image_alt: lorem-ipsum
-    content: |
-      ##### Spotify Profile
-
-      https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg
+    content: >
+      ##### [Spotify
+      Profile](https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg)
     actions: []
     type: section_content
   - title: Editing

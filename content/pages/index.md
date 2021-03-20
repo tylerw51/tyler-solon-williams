@@ -26,7 +26,6 @@ sections:
 
       *   Media theory and media history
 
-
       *   Film and comparative media studies
 
 

@@ -3,6 +3,14 @@ title: Teaching
 hide_title: false
 excerpt: lorem-ipsum
 sections:
+  - content: |
+      [Teaching Philosophy](#teachingphilosophy)
+
+      [Teaching Experience](#teachingexperience)
+
+      [Teaching Demonstration](#teachingdemonstration)
+    actions: []
+    type: section_hero
   - image_alt: lorem-ipsum
     actions:
       - label: Teaching Philosophy
@@ -161,14 +169,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_content
-  - content: |
-      [Teaching Philosophy](#teachingphilosophy)
-
-      [Teaching Experience](#teachingexperience)
-
-      [Teaching Demonstration](#teachingdemonstration)
-    actions: []
-    type: section_hero
 seo:
   title: ''
   description: ''

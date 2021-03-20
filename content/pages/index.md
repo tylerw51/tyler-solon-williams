@@ -5,10 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      <br>    
-      Tyler Solon Williams is graduating with a PhD in Communication Studies
-      from the University of Iowa. He studies animation, television, and media
-      and cultural history.
+      <br>     Tyler Solon Williams is graduating with a PhD in Communication
+      Studies from the University of Iowa. He studies animation, television, and
+      media and cultural history.
     actions:
       - label: Contact Me
         url: /contact/
@@ -17,6 +16,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    title: Hello
   - section_id: about
     type: section_content
     title: ABOUT

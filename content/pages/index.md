@@ -64,7 +64,7 @@ seo:
     - name: 'twitter:description'
       value: media studies phd
     - name: 'twitter:image'
-      value: /images/Tyler%20Nice.jpg
+      value: /images/Tyler%20nice%20close%20crop%20Med%20size.jpg
       relativeUrl: true
 layout: advanced
 ---

@@ -50,7 +50,48 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: "ABSTRACT\n\nThe television cartoon emerged in the postwar United States when animation mediated television and television simplified animation. This vibrant media form has long since outgrown comparisons with cinema animation, for today its influence is everywhere. Traditional artistic animation may be a technique particular to cinema, I suggest. What remained after the radical reforms needed to adapt to television, the first home screen-based electronic medium, was a new kind of designed cartoon.\n\n\r\nPart 1 begins by uncovering media precedents that made this possible, including print cartoons and radio comedy. The creators of early television cartoons trained at early cinema cartoon studios. In the 1940s, Disney’s elaborate animation process caused a counter-reaction, and newer studios chose to limit animation. Jay Ward and Alex Anderson first succeeded in producing a “comic strip of television” in 1950. Bill Hanna and Joe Barbera then undertook a decades-long enterprise of sending simple but entertaining characters out to viewers.\n\n\r\nThis dissertation builds upon the tentative consensus of earlier accounts to proposes a theoretical model to explain the early television cartoon as a media form through seven familiar principles, largely in Part 2. These include rationalization, story, character, style, sound, and performance. This is how animation survived in new forms, and the industry transformed. In the end, the graphical interfaces of early personal computers and video games borrowed the economical model of limited animation, building a foundation for future digital media devices.\n"
+    content: >
+      Understanding the Early Television Cartoon
+
+
+      Communication Studies
+
+
+      2021 The University of Iowa
+
+
+
+
+      ABSTRACT
+
+
+      The television cartoon emerged in the postwar United States when animation
+      mediated television and television simplified animation. This vibrant
+      media form has long since outgrown comparisons with cinema animation, for
+      today its influence is everywhere. Traditional artistic animation may be a
+      technique particular to cinema, I suggest. What remained after the radical
+      reforms needed to adapt to television, the first home screen-based
+      electronic medium, was a new kind of designed cartoon.
+
+
+      Part 1 begins by uncovering media precedents that made this possible,
+      including print cartoons and radio comedy. The creators of early
+      television cartoons trained at early cinema cartoon studios. In the 1940s,
+      Disney’s elaborate animation process caused a counter-reaction, and newer
+      studios chose to limit animation. Jay Ward and Alex Anderson first
+      succeeded in producing a “comic strip of television” in 1950. Bill Hanna
+      and Joe Barbera then undertook a decades-long enterprise of sending simple
+      but entertaining characters out to viewers.
+
+
+      This dissertation builds upon the tentative consensus of earlier accounts
+      to proposes a theoretical model to explain the early television cartoon as
+      a media form through seven familiar principles, largely in Part 2. These
+      include rationalization, story, character, style, sound, and performance.
+      This is how animation survived in new forms, and the industry transformed.
+      In the end, the graphical interfaces of early personal computers and video
+      games borrowed the economical model of limited animation, building a
+      foundation for future digital media devices.
     actions: []
     type: section_content
     title: Dissertation

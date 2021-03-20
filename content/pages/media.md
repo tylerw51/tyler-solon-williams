@@ -78,9 +78,7 @@ sections:
     section_id: editing
     image_alt: lorem-ipsum
     content: |
-      ##### Reedsy Editor Profile
-
-      https://reedsy.com/tyler-williams
+      ##### [Reedsy Editor Profile](https://reedsy.com/tyler-williams)
     actions: []
     type: section_content
   - title: Design & Art

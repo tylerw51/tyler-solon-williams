@@ -20,13 +20,13 @@ sections:
 Dissertation: “Understanding the Early Television Cartoon”<br><br>
 Directors: Timothy Havens and Thomas Lamarre (University of Chicago)<br><br>
 Committee members: Kembrew McLeod, Christopher Goetz, Laura Rigal<br><br>
-Status: Dissertation completed and accepted; graduation expected in May<br><br><br><br>
+Status: Dissertation completed and accepted; graduation expected in May<br><br><br>
 2011   MA, Media, Culture, and Communication, New York University<br><br>
-Thesis: “The Mediated Meme: Form and Change in Viral Media Culture”<br><br><br><br>
-2008-9   Graduate coursework, Media Studies, Universiteit van Amsterdam, The Netherlands<br><br><br><br>
-2006-8   Undergraduate coursework, Film and Cultural Studies, University of Minnesota<br><br><br><br>
+Thesis: “The Mediated Meme: Form and Change in Viral Media Culture”<br><br><br>
+2008-9   Graduate coursework, Media Studies, Universiteit van Amsterdam, The Netherlands<br><br><br>
+2006-8   Undergraduate coursework, Film and Cultural Studies, University of Minnesota<br><br><br>
 2002   BA, Philosophy, Reed College<br><br>
-Thesis: “Analyzing the Conscious-Physical Link: On Chalmers’ Theory”<br><br><br><br>
+Thesis: “Analyzing the Conscious-Physical Link: On Chalmers’ Theory”<br><br><br>
 TEACHING EXPERIENCE<br><br>
 Exp.   Associate level certification, CIRTL. Center for the Integration of Teaching and Learning, University of Iowa<br><br>
 Instructor, University of Iowa<br><br>

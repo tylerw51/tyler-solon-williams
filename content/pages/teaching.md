@@ -14,13 +14,6 @@ sections:
     type: section_hero
   - image_alt: lorem-ipsum
     actions:
-      - label: Teaching Experience
-        url: '#teachingexperience'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
       - label: Teaching Demonstration
         url: '#teachingdemonstration'
         style: link

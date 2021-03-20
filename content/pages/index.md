@@ -48,7 +48,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Tyler Solon Williams
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme

@@ -161,17 +161,12 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_content
-  - content: >-
-      ## Lorem ipsum
+  - content: |
+      [Link 1](www.google.com)
 
+      [Link 2](www.google.com)
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      [Link 3](www.google.com)
     actions: []
     type: section_hero
 seo:

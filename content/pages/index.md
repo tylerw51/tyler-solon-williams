@@ -2,9 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - image_alt: lorem-ipsum
-    actions: []
-    type: section_content
   - section_id: hero
     type: section_hero
     content: >

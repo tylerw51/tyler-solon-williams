@@ -67,7 +67,7 @@ sections:
 
       https://www.youtube.com/watch?v=2exsQRFoXhQ
 
-      [![Audi R8](http://img.youtube.com/vi/2exsQRFoXhQ/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+      [![Tetris](http://img.youtube.com/vi/2exsQRFoXhQ/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Tetris")
     actions: []
     type: section_content
   - title: Music

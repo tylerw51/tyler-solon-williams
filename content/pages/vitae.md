@@ -20,7 +20,7 @@ sections:
 Dissertation: “Understanding the Early Television Cartoon”<br>
 Directors: Timothy Havens and Thomas Lamarre (University of Chicago)<br>
 Committee members: Kembrew McLeod, Christopher Goetz, Laura Rigal<br>
-Status: Dissertation completed and accepted; graduation expected in May<br>
+Status: Dissertation completed and accepted; graduation expected in May<br><br>
 2011   MA, Media, Culture, and Communication, New York University<br>
 Thesis: “The Mediated Meme: Form and Change in Viral Media Culture”<br>
 2008-9   Graduate coursework, Media Studies, Universiteit van Amsterdam, The Netherlands<br>

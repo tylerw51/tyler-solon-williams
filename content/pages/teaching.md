@@ -13,14 +13,7 @@ sections:
     actions: []
     type: section_hero
   - image_alt: lorem-ipsum
-    actions:
-      - label: Teaching Demonstration
-        url: '#teachingdemonstration'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_content
   - title: Teaching Philosophy
     image_alt: lorem-ipsum

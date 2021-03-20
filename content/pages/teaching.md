@@ -12,9 +12,6 @@ sections:
 
     actions: []
     type: section_hero
-  - image_alt: lorem-ipsum
-    actions: []
-    type: section_content
   - title: Teaching Philosophy
     image_alt: lorem-ipsum
     content: >+

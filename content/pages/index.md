@@ -54,7 +54,7 @@ seo:
       value: media studies phd
       keyName: property
     - name: 'og:image'
-      value: /images/best-tomato.jpg
+      value: /images/Tyler%20Nice.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -3,12 +3,13 @@ title: Teaching
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - content: |
+  - content: |+
       [Teaching Philosophy](#teachingphilosophy)
 
       [Teaching Experience](#teachingexperience)
 
       [Teaching Demonstration](#teachingdemonstration)
+
     actions: []
     type: section_hero
   - image_alt: lorem-ipsum

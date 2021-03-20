@@ -16,18 +16,6 @@ sections:
         no_follow: false
         type: action
     title: Hello
-  - section_id: about
-    type: section_content
-    title: ABOUT
-    content: >
-      Tyler's completed dissertation, “Understanding the Early Television
-      Cartoon,” proposes a theoretical model explaining how animation was made
-      for television in the early years of the medium. 
-
-
-      He has six years of experience teaching media studies, interpersonal
-      communication, and rhetoric.
-    actions: []
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -44,6 +32,18 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+  - section_id: about
+    type: section_content
+    title: ABOUT
+    content: >
+      Tyler's completed dissertation, “Understanding the Early Television
+      Cartoon,” proposes a theoretical model explaining how animation was made
+      for television in the early years of the medium. 
+
+
+      He has six years of experience teaching media studies, interpersonal
+      communication, and rhetoric.
+    actions: []
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme

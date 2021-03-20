@@ -19,17 +19,29 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Tyler's research and teaching interests include:
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Animation and the television cartoon in the United States
 
 
-      - Lorem ipsum
+      *   Media theory and media history
 
-      - dolor sit amet
+
+      *   Film and comparative media studies
+
+
+      *   American media culture.
+
+
+      His completed dissertation, “Understanding the Early Television Cartoon,”
+      proposes a theoretical model explaining how animation was made for
+      television in the early years of the medium.
+
+
+      Tyler has six years of experience teaching media studies, interpersonal
+      communication, and rhetoric.
     actions: []
     type: section_content
   - section_id: about

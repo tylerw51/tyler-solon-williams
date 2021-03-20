@@ -21,7 +21,7 @@ sections:
     title: ABOUT
     content: >
       Tyler's research and teaching interests include:
-        nimation and the television cartoon in the United States
+        Animation and the television cartoon in the United States
 
 
       *   Media theory and media history

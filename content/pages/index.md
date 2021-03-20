@@ -21,6 +21,7 @@ sections:
     title: ABOUT
     content: >
       Tyler's research and teaching interests include:
+        
         Animation and the television cartoon in the United States
 
 

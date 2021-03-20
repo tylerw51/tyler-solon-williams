@@ -54,7 +54,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: /images/Tyler%20nice%20circle%20cropped%20small.jpg
+      value: /images/Tyler%20Nice.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -51,7 +51,7 @@ seo:
       value: Tyler Solon Williams
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: media studies phd
       keyName: property
     - name: 'og:image'
       value: /images/Tyler%20Nice.jpg

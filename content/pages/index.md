@@ -25,7 +25,6 @@ sections:
       * Animation and the television cartoon in the United States
       *   Media theory and media history<br>
       *   Film and comparative media studies
-
       *   American media culture.
 
 

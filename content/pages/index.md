@@ -42,7 +42,7 @@ sections:
     actions: []
 seo:
   title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  description: media studies phd
   extra:
     - name: 'og:type'
       value: website

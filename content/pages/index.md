@@ -6,9 +6,13 @@ sections:
     type: section_hero
     content: >
       Tyler Solon Williams is graduating in May 2021 with a PhD in Communication
-      Studies from the University of Iowa.Tyler's research and teaching
-      interests include:*   Animation and the television cartoon in the United
-      States
+      Studies from the University of Iowa.
+
+
+      Tyler's research and teaching interests include:
+
+
+      *   Animation and the television cartoon in the United States
 
 
       *   Media theory and media history
@@ -17,10 +21,15 @@ sections:
       *   Film and comparative media studies
 
 
-      *   American media culture.His completed dissertation, “Understanding the
-      Early Television Cartoon,” proposes a theoretical model explaining how
-      animation was made for television in the early years of the medium.Tyler
-      has six years of experience teaching media studies, interpersonal
+      *   American media culture.
+
+
+      His completed dissertation, “Understanding the Early Television Cartoon,”
+      proposes a theoretical model explaining how animation was made for
+      television in the early years of the medium.
+
+
+      Tyler has six years of experience teaching media studies, interpersonal
       communication, and rhetoric.
     actions:
       - label: Contact Me

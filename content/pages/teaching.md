@@ -27,6 +27,15 @@ sections:
         no_follow: false
         type: action
     type: section_content
+  - actions:
+      - label: test
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_content
   - title: Teaching Philosophy
     image_alt: lorem-ipsum
     content: >+
@@ -160,15 +169,6 @@ sections:
   - section_id: teachingresponsibilities
     image_alt: lorem-ipsum
     actions: []
-    type: section_content
-  - actions:
-      - label: test
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
     type: section_content
 seo:
   title: ''

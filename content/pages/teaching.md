@@ -161,13 +161,12 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_content
-  - content: |+
-      Teaching Philosophy
+  - content: |
+      [Teaching Philosophy](#teachingphilosophy)
 
-      Teaching Experience
+      [Teaching Experience](#teachingexperience)
 
-      Teaching Demonstration
-
+      [Teaching Demonstration](#teachingdemonstration)
     actions: []
     type: section_hero
 seo:

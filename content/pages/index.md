@@ -41,7 +41,7 @@ sections:
       communication, and rhetoric.
     actions: []
 seo:
-  title: Stackbit Fresh Theme
+  title: Tyler Solon Williams
   description: media studies phd
   extra:
     - name: 'og:type'

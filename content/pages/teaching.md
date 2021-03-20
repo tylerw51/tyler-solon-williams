@@ -161,8 +161,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_content
-  - image_alt: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 

@@ -30,8 +30,7 @@ sections:
       He has six years of experience teaching media studies, interpersonal
       communication, and rhetoric.
     actions: []
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 

@@ -161,12 +161,13 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_content
-  - content: |
-      [Link 1](www.google.com)
+  - content: |+
+      Teaching Philosophy
 
-      [Link 2](www.google.com)
+      Teaching Experience
 
-      [Link 3](www.google.com)
+      Teaching Demonstration
+
     actions: []
     type: section_hero
 seo:

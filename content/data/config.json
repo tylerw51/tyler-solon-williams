@@ -61,15 +61,6 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "icon",
-                "icon_class": "fa-quora",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "profile_img": "images/Tyler nice circle cropped small.jpg"

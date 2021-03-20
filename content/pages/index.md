@@ -19,29 +19,7 @@ sections:
   - section_id: about
     type: section_content
     title: ABOUT
-    content: >
-      Tyler's research and teaching interests include:
-
-
-      *   Animation and the television cartoon in the United States
-
-
-      *   Media theory and media history
-
-
-      *   Film and comparative media studies
-
-
-      *   American media culture.
-
-
-      His completed dissertation, “Understanding the Early Television Cartoon,”
-      proposes a theoretical model explaining how animation was made for
-      television in the early years of the medium.
-
-
-      Tyler has six years of experience teaching media studies, interpersonal
-      communication, and rhetoric.
+    content: "Tyler's research and teaching interests include:\n\n*   Animation and the television cartoon in the United States\n\n*   Media theory and media history\n\n*   Film and comparative media studies\n\n*   American media culture.\n\nHis completed dissertation, “Understanding the Early Television Cartoon,” proposes a theoretical model explaining how animation was made for television in the early years of the medium.\n\nTyler has six years of experience teaching media studies, interpersonal communication, and rhetoric.\n\n\n\nAnimation and the television cartoon in the United States\r\nMedia theory and media history\r\nFilm and comparative media studies\r\nAmerican media culture.\n\n\n\n"
     actions: []
 seo:
   title: Stackbit Fresh Theme

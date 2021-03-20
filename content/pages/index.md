@@ -64,7 +64,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/Tyler%20Nice.jpg
       relativeUrl: true
 layout: advanced
 ---

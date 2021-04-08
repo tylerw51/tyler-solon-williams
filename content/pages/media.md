@@ -41,7 +41,6 @@ sections:
         no_follow: false
         type: action
     type: section_content
-    title: Student Collaboration
   - title: Animation
     image_alt: lorem-ipsum
     content: >+

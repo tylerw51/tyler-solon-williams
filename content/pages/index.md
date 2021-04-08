@@ -29,12 +29,12 @@ sections:
 
       *   Film and comparative media studies
 
-      *   American media culture.
+      *   American media culture
 
 
       His completed dissertation, “Understanding the Early Television Cartoon,”
       proposes a theoretical model explaining how animation was made for
-      television in the early years of the medium.
+      television in the early years of the medium
 
 
       Tyler has six years of experience teaching media studies, interpersonal

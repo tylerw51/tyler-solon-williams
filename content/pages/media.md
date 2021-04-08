@@ -69,7 +69,8 @@ sections:
       ##### Competitive Tetris Player
 
 
-      A recent game of Jstris (click image below to watch video)
+      A recent game of [Jstris](https://jstris.jezevec10.com/) (click image
+      below to watch)
 
 
       [![Tetris](http://img.youtube.com/vi/2exsQRFoXhQ/0.jpg)](https://www.youtube.com/watch?v=2exsQRFoXhQ\&ab_channel=tylerw51

@@ -14,114 +14,125 @@ sections:
     type: section_hero
   - title: Teaching Philosophy
     image_alt: lorem-ipsum
-    content: >+
+    content: >
       Being part of a tight-knit learning community in a memorable college
       seminar can be a life-changing experience. Such alchemy can seem
       mysterious, but the basic components are known: when a teacher creates a
       welcoming environment and provides opportunities for engagement, students
-      excel. While an undergraduate studying philosophy at Reed College, I
-      embraced a love of learning in vibrant small group discussions. As an
-      educator, seminar-style discussion has become my approach to teaching,
-      even if I am giving a large lecture.
+      excel. I embraced a love of learning in vibrant small group seminars as an
+      undergraduate studying philosophy at Reed College. I now pursue that art
+      of learning through the science of teaching. To me, learning means a
+      curiosity to understand, and opening up to the change in perspective that
+      arrives upon achieving that understanding. To teach in service of learning
+      means asking questions that lead students from their own experiences
+      through the subjects of the course. I support students to cultivate
+      literacy about media and texts as an educator, through self-reflexive
+      study, collective dialogue, and creative practice.
 
 
-      To me, learning means a curiosity to understand, and opening up to the
-      change in perspective that comes from achieving that understanding.
-      Teaching in service of learning, I believe, means asking questions that
-      lead students individually and collectively from their own experiences
-      through the subjects of the course. My three basic goals for students are:
-      to learn a vocabulary of concepts, to understand the subject in depth, and
-      to actively think and interact along the way. Realizing these goals means
-      providing students enough structure to become familiar with the subject
-      and enough flexibility for them to discover what matters to them. I
-      evaluate students and myself through multiple methods that productively
-      accord with these approaches. I trust that foregrounding student learning
-      will support healthy grades. I support students to cultivate their
-      literacy about media and formats through self-reflexive study, dialogue,
-      and practice.
+      At the beginning of a new term, I invite students to join together in
+      founding a new learning community, something like inhabiting a building we
+      begin to construct together. Before the work gets underway, on the first
+      day, I am up front about the familiar but challenging tasks ahead. I talk
+      through the topics to be covered, the kinds of material to be worked with,
+      and I present the major graded components of the course. These often
+      include short and long writings, discussion roles and a presentation, and
+      a handful of medium-sized tests. But there will also be room for play: I
+      offer students a chance for artistic practice and collaboration, to
+      produce media like we are studying, as well as extra credit opportunities
+      for reflecting on their learning goals. In setting out the learning goals
+      for the class, I encourage students to raise their expectations for
+      themselves, to equalize their voices with scholars and myself. Then, I ask
+      each individual to write about their perspective and to articulate their
+      own biggest learning goals for themselves. I draw on this information to
+      adjust the readings and material to better align with what matters to my
+      students. I emphasize that we will all work together collectively, that
+      they can drop a few low grades, and that I will always be available for
+      support as an ally to their learning.
 
 
-      At the beginning of a new term, I invite students in each class to
-      articulate their perspective in writing and to join in founding a new
-      learning community through discussion. I reconsider readings to better
-      align with their interests. I foster a rigorous but forgiving atmosphere,
-      modelling and facilitating respect, trust, and openness. I encourage
-      students to raise their expectations for themselves, to equalize their
-      voices with scholars and myself, and I lighten the mood with humor and
-      play. I often express the core problem of the class as a provocative
-      question, and devote time to thinking, pairing, and sharing around this
-      throughline. The goals of each session are to grasp relevant concepts,
-      inquire in depth, and dialogue collectively. I balance content variation
-      with structural familiarity. Over time, I challenge students to more
-      directly grapple with core issues and to explain their reasoning.
+      Students and I together begin establishing concrete expectations for what
+      the class will be like on the second day. I explain that my role will be
+      to provide structure for their engagement. I stress the importance of
+      jumping in to the class material and getting their feet wet, both
+      individually at home and collectively in class. Diversity, connection, and
+      respect become necessary conditions for discussion, because without
+      everyone participating, the community is unequal. I pass out examples of
+      strong and weak work on each graded measure of the course. This enables
+      each student to assess their existing knowledge; if any feel unprepared, I
+      help them change classes. While foregrounding assessment standards
+      produces anxiety, I do so initially to be transparent with students. Like
+      in architecture, where rigor protects safety and comfort, structure and
+      standards are necessary in the classroom to provide shared space and
+      foster trust. But flexibility is nearly as important, so I adjust plans as
+      appropriate. I encourage students to get playful through light humor,
+      which strengthens group bonds. With the grading expectations clear through
+      examples, I say they have the best chance of doing well by investing in
+      their own learning. Media studies is a young, multifarious area, and it is
+      waiting for their contributions.
 
 
-      As a teacher and scholar, I have a breadth of interdisciplinary teaching
-      and research experience. In my graduate teaching career of seven years,
-      largely at the University of Iowa, I have taught a wide variety of courses
-      in my department, with an average of 18-20 students per class. In my first
-      semester, I was assigned to teach a stand-alone course. Without training,
-      it was a rocky start. I naively tried to engage students in discussion as
-      peers, as if they shared a background similar to mine. Students felt
-      stymied without more structure, and their mixed evaluations pushed me to
-      focus more on promoting learning through my teaching. I assessed my
-      teaching with my department and the university, and I worked to improve
-      with each class session. I realized students and I can connect more
-      intuitively when I learn names early, emphasize active learning more than
-      lecturing, and teach and assess with a variety of methods (as well as
-      creating clearer PowerPoints). I stopped teaching in my fifth year to
-      focus on writing my dissertation. Still, then and now, I actively work on
-      my pedagogy, assessing how I can improve my weak points and bring out my
-      strengths more. In a recent CIRTL workshop, I created a Teaching as
-      Research project I will put into practice in my next teaching role,
-      “Structuring Classroom Learning Communities.” I am now enrolled in a
-      graduate rhetoric course on pedagogy and professional development. I
-      remind myself often that my students also teach me.
+      I have become a teacher through six years of instruction at the
+      undergraduate level. Without training, my first assignment in my first
+      semester at the University of Iowa was a challenge: teaching two sections
+      of a stand-alone course, Media, Advertising, and Society. I chose to
+      depart from a previous textbook to explore themes I found more relevant in
+      specific essays: consumer culture, gender and racial dynamics in
+      advertising, commodities, authenticity, and consumer empowerment. I
+      assessed my teaching with my department and UI’s Center for the
+      Integration of Research, Teaching, and Learning (CIRTL). I found that my
+      instinct to dialogue inductively, from the material to the conclusions,
+      frustrated some students more accustomed to deductive learning. This
+      showed me the importance of structure. I subsequently worked to better
+      relate concepts to students’ experience, provide context and signposting,
+      and be up front about grading expectations. But, trying the opposite
+      approach, emphasizing my authority as a teacher, tended to hinder
+      discussion and students’ freedom of expression. So, I worked to adapt to
+      the simultaneous need for flexibility, decentering my role to encourage
+      students to take more agency over their learning, and adjusting plans to
+      better support the unfolding of their discourse.
 
 
-      My research has kept me looking forward in my young career, because I am
-      always in pursuit of the next hard-won insight. I am thankful to have
-      discovered the study of animation in the Netherlands, because while the
-      U.S. produces the majority of the world’s television cartoons, American
-      scholars typically distance themselves from these, even those who study
-      animation or television. In my dissertation, and the book I plan to
-      publish based on it, I encourage scholars to open their minds more to the
-      fact that non-cinematic cartoon animation is all around us. Marshall
-      McLuhan’s lesson about the specificity of media is well-known. Lisa
-      Gitelman’s and Jonathan Sterne’s “format studies” is a newer disciplinary
-      area attending to the specificity of formats within media. Combining these
-      two approaches is the basis of my claim that the cartoon of television is
-      distinct from the animation of cinema. I believe that the television
-      cartoon is the modern missing link between the classical animation of
-      cinema and contemporary digital media. Far more than a children’s genre, I
-      take Lev Manovich and Suzanne Buchan’s points that in the 21st century
-      animation techniques have become a mode of media production more pervasive
-      and flexible than photographic representation.
+      I reflect on my pedagogy actively and in depth. My most popular teaching
+      activity was as a TA in an interpersonal communication course,
+      Communication Theory in Everyday Life. Student grades were based on three
+      big multiple choice exams, and students were nervous. In the second
+      semester I TAd this, I created a gamified activity called “Challenge
+      Questions” to introduce exam questions from prior years as a way to allow
+      students to prepare for the upcoming exams in a fun way. Groups of three
+      to four students talked and guessed about the answers, thrilled at the
+      chance to compete across the semester for the highest cumulative score.
+      Students entered their exams with more confidence, a sense of inclusion,
+      and more insight into the process of teaching and learning.
 
 
-      My career aspiration is to teach at a liberal arts college, in seminars of
-      10-20 students who are personally driven to learn. Or, to teach students
-      at a university in a similar style. Since my mind was forged in the
-      intellectual furnace of Reed College, I have missed the liberal arts’
-      restless spirit of collective inquiry. I wish to offer to teach up to
-      three of my own new courses at either the 200 or 300 level, including
-      “Video Games and Platforms,” “The Cartoons of Television,” and “Music,
-      Genre and Culture.” My self-reflexive pedagogy over my years of
-      interdisciplinary teaching experience has accustomed me to resolving
-      pedagogical problems with students has prepared me to assume this
-      responsibility. I am also well-qualified for online instruction: after
-      college, I worked in customer service and computer support roles to
-      specifically solve problems with stressed-out people.
+      My career aspiration is to teach at a rigorous liberal arts college like
+      Clarke, in seminars of 10-20 students who are curious and driven to learn.
+      Since my critical mind was forged in the intellectual furnace of Reed
+      College, I have missed the liberal arts’ restless spirit of
+      interdisciplinary inquiry and collaboration. In your program, I look
+      forward to teaching strategic communication, media writing, communication
+      law, and other courses as needed. I wish to offer to teach topics courses
+      of my own design. “The Television Cartoon,” is based on my dissertation
+      research. “Video Games and Platforms,” “Music, Genre and Culture,” and “A
+      Cultural History of Broadcasting” are all subjects I am intimately
+      familiar with from my recent teaching and/or research. Prior professional
+      experience in computer support and customer service also informs my
+      teaching and prepares me for online instruction. I grew up outside of
+      traditional faith traditions, but have come to find my spirituality in a
+      variety of personal ways. I find meaning in building relationships with
+      students, faculty, staff, and community members alike. I also look forward
+      to opportunities to serve the department and university.
 
 
-      In both my teaching and research, I am driven by curiosity to connect
-      people and ideas. Understanding media, cinema, and culture requires
-      dialogue. I am committed to building collegial relationships with you as
-      my future department faculty members, since we can only ensure student
-      success collectively. Young people are influential actors in the mediated
-      drama of culture. My purpose is to embolden them with agency to chart
-      their unique path forward in this evolving world.
-
+      Media, communication, and culture are complex. Understanding these social
+      phenomena requires dialogue, and I treat my classroom as a gathering
+      space. My teaching, as well as my research, is informed by scientific and
+      technical thinking. Art, though, is awesome and sometimes ultimately
+      inexplicable. I learn a great deal from my students, and work to make this
+      relationship mutual by keeping material relevant. My purpose as an
+      educator is to embolden young people with agency to confidently chart
+      their unique paths forward in this evolving world.
     actions: []
     type: section_content
     section_id: teachingphilosophy

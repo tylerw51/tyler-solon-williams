@@ -112,21 +112,6 @@ sections:
     content: "2021\t“Principles of the Television Cartoon, or Illustrated Radio,” Society for Animation Studies annual conference, New Orleans, LA (accepted)\n\n2021\t“Understanding the Early Television Cartoon,” invited talk for department colloquium, Communication Studies and Cinematic Arts, University of Iowa, currently preparing\n\n2017\t“Comics Origin Stories: Histories of the Present,” International Communication Association annual conference, San Diego, CA\n\n2017\t“Historically Innovative Techniques of Animation,” Popular Culture Association annual conference, San Diego, CA. Organized and chaired panel of four papers\n\n2017\t“Quick and Dirty? The World Wide Web of Pornography,” Popular Culture Association annual conference, San Diego, CA\n\n2016\t“The Origin of Adult Swim’s ‘Minimal’ Animation,” Society for Animation Studies annual conference, Singapore\r\n(LINK)\n\n2016\t“The Film Short, Long Forgotten, Has in Fact Never Left,” Jakobsen Graduate Conference, Iowa City, IA\n\n2015\t“Digital Video Codecs: The New Suspension of Disbelief,” Society for Cinema and Media Studies annual conference, Montréal, Canada\n\n2010\t“Selective Appropriation as Intertextual Innovation in The Simpsons,” Comparative Literary and Cultural Studies Graduate Conference, Stony Brook University\n"
     actions: []
     type: section_content
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_hero
 seo:
   title: ''
   description: ''

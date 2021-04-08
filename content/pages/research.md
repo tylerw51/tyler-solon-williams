@@ -35,7 +35,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-  - title: Dissertation
+  - title: phd Dissertation
     section_id: dissertation
     image_alt: lorem-ipsum
     actions:

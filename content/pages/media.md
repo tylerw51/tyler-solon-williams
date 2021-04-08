@@ -55,6 +55,13 @@ sections:
         no_follow: false
         type: action
     type: section_content
+  - title: Editing
+    section_id: editing
+    image_alt: lorem-ipsum
+    content: |
+      ##### [Reedsy Editor Profile](https://reedsy.com/tyler-williams)
+    actions: []
+    type: section_content
   - title: Gaming
     section_id: gaming
     image_alt: lorem-ipsum
@@ -75,13 +82,6 @@ sections:
     content: >
       ##### [Spotify
       Profile](https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg)
-    actions: []
-    type: section_content
-  - title: Editing
-    section_id: editing
-    image_alt: lorem-ipsum
-    content: |
-      ##### [Reedsy Editor Profile](https://reedsy.com/tyler-williams)
     actions: []
     type: section_content
   - title: Design & Art

@@ -112,23 +112,22 @@ sections:
       and more insight into the process of teaching and learning.
 
 
-      My career aspiration is to teach at a rigorous liberal arts college like
-      Clarke, in seminars of 10-20 students who are curious and driven to learn.
-      Since my critical mind was forged in the intellectual furnace of Reed
-      College, I have missed the liberal arts’ restless spirit of
-      interdisciplinary inquiry and collaboration. In your program, I look
-      forward to teaching strategic communication, media writing, communication
-      law, and other courses as needed. I wish to offer to teach topics courses
-      of my own design. “The Television Cartoon,” is based on my dissertation
-      research. “Video Games and Platforms,” “Music, Genre and Culture,” and “A
-      Cultural History of Broadcasting” are all subjects I am intimately
-      familiar with from my recent teaching and/or research. Prior professional
-      experience in computer support and customer service also informs my
-      teaching and prepares me for online instruction. I grew up outside of
-      traditional faith traditions, but have come to find my spirituality in a
-      variety of personal ways. I find meaning in building relationships with
-      students, faculty, staff, and community members alike. I also look forward
-      to opportunities to serve the department and university.
+      My career aspiration is to teach at a rigorous liberal arts college, in
+      small seminars of curious students who are driven to learn. Since my
+      critical mind was forged in the intellectual furnace of Reed College, I
+      have missed the liberal arts’ restless spirit of interdisciplinary inquiry
+      and collaboration. I am fully able to teach existing departmental courses.
+      I wish to offer to teach topics courses of my own design. “The Television
+      Cartoon,” is based on my dissertation research. “Video Games and
+      Platforms,” “Music, Genre and Culture,” and “Media, Advertising, and
+      Society" are all subjects I am intimately familiar with from my recent
+      teaching and/or research. Prior professional experience in computer
+      support and customer service also informs my teaching and prepares me for
+      online instruction. I grew up outside of traditional faith traditions, but
+      have come to find my spirituality in a variety of personal ways. I find
+      meaning in building relationships with students, faculty, staff, and
+      community members alike. I also look forward to opportunities to serve the
+      department and college.
 
 
       Media, communication, and culture are complex. Understanding these social

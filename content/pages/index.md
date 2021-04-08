@@ -38,7 +38,7 @@ sections:
 
 
       Tyler has six years of experience teaching media studies, interpersonal
-      communication, and rhetoric.
+      communication, and rhetoric
     actions: []
 seo:
   title: Tyler Solon Williams

@@ -43,15 +43,7 @@ sections:
     type: section_content
   - title: Animation
     image_alt: lorem-ipsum
-    content: >+
-      ##### University of Iowa Student Film (Partially Animated)
-
-
-      Good Vibrations: Metamorphosis
-
-
-      https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs
-
+    content: "[University of Iowa Student Film (Partially Animated)\r\nGood Vibrations: Metamorphosis\r\n(Click link to view)](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)\r\n![](/images/Good%20Vibrations%20Image.png)\n"
     actions: []
     type: section_content
     section_id: animation

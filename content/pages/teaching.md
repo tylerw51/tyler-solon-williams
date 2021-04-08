@@ -12,6 +12,17 @@ sections:
 
     actions: []
     type: section_hero
+  - title: Teaching Demonstration
+    section_id: teachingdemonstration
+    image_alt: lorem-ipsum
+    content: |
+      The Kardashians, the Robertsons, and Celebrity Family Cultures
+
+      2014-8 The University of Iowa, Communication Theory in Everyday Life
+
+      https://www.youtube.com/watch?v=bt69InGd3dk
+    actions: []
+    type: section_content
   - title: Teaching Philosophy
     image_alt: lorem-ipsum
     content: >
@@ -140,17 +151,6 @@ sections:
     section_id: teachingexperience
     image_alt: lorem-ipsum
     content: "##### Instructor, University of Iowa\n\n2016\tTelevision Criticism\n\n2012-13\tMedia, Advertising, and Society (two terms)\n\n##### Teaching Assistant, University of Iowa\n\n2017\tMedia, Music, and Culture\n\n2014-15\tCore Concepts in Communication Studies (two terms)\n\n2014-17\tCommunication Theory in Everyday Life (three terms)\n\n2013-16\tThe Art of Persuading Others (two terms)\n\n##### Adjunct Instructor, Mercy College (NY)\n\n2011\tMedia in America\n\n##### Grader, New York University\n\n2010\tAdvertising and Society\n\n##### Assistant Teacher, Public School 9, Brooklyn, NY\n\n2009-10\tReading and math, first grade classroom, through federal America Reads / America Counts program\n\n"
-    actions: []
-    type: section_content
-  - title: Teaching Demonstration
-    section_id: teachingdemonstration
-    image_alt: lorem-ipsum
-    content: |
-      The Kardashians, the Robertsons, and Celebrity Family Cultures
-
-      2014-8 The University of Iowa, Communication Theory in Everyday Life
-
-      https://www.youtube.com/watch?v=bt69InGd3dk
     actions: []
     type: section_content
   - section_id: teachingresponsibilities

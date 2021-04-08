@@ -64,6 +64,10 @@ sections:
     section_id: studentcollaboration
     image_alt: lorem-ipsum
     content: >
+      ["Mighty Mouse: Hero of TV
+      Animation"](https://www.youtube.com/watch?v=5pH6LwuZjnU)
+
+
       [Interview collaboration with student Lev
       Cantoral](https://www.youtube.com/watch?v=5pH6LwuZjnU)
 

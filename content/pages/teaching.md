@@ -15,7 +15,19 @@ sections:
   - title: Teaching Demonstration
     section_id: teachingdemonstration
     image_alt: lorem-ipsum
-    content: "[The Kardashians, the Robertsons, and Celebrity Family Cultures\r\n2014-8 The University of Iowa, Communication Theory in Everyday Life\r\n(Click link to view)](https://www.youtube.com/watch?v=bt69InGd3dk)\n\n![](/images/Tyler%20Teaching%20Demo%20Image.png)\n"
+    content: >
+      [The Kardashians, the Robertsons, and Celebrity Family
+      Cultures](https://www.youtube.com/watch?v=bt69InGd3dk)
+
+
+      [2014-8 The University of Iowa, Communication Theory in Everyday
+      Life](https://www.youtube.com/watch?v=bt69InGd3dk)
+
+
+      [(Click link to view)](https://www.youtube.com/watch?v=bt69InGd3dk)
+
+
+      ![](/images/Tyler%20Teaching%20Demo%20Image.png)
     actions: []
     type: section_content
   - title: Teaching Philosophy

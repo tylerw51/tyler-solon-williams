@@ -50,7 +50,15 @@ sections:
   - title: Student Collaboration
     section_id: studentcollaboration
     image_alt: lorem-ipsum
-    content: "[Interview collaboration with student Lev Cantoral\r\n(Click link to view)](https://www.youtube.com/watch?v=5pH6LwuZjnU)\n\n![](/images/Lev%20MM%20Student%20Film%20Image.png)\n"
+    content: >
+      [Interview collaboration with student Lev
+      Cantoral](https://www.youtube.com/watch?v=5pH6LwuZjnU)
+
+
+      [(Click link to view)](https://www.youtube.com/watch?v=5pH6LwuZjnU)
+
+
+      ![](/images/Lev%20MM%20Student%20Film%20Image.png)
     actions: []
     type: section_content
   - title: Editing

@@ -114,7 +114,7 @@ sections:
       ![](/images/Creatures%20Thumb.png)
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Student Collaboration
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

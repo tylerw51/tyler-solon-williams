@@ -144,7 +144,7 @@ sections:
   - title: Teaching Experience
     section_id: teachingexperience
     image_alt: lorem-ipsum
-    content: "**Instructor, University of Iowa**\r\n2016\tTelevision Criticism\r\n2012-13\tMedia, Advertising, and Society (two terms)\r\n\n**Teaching Assistant, University of Iowa**\r\n2017\tMedia, Music, and Culture\r\n2014-15\tCore Concepts in Communication Studies (two terms)\r\n2014-17\tCommunication Theory in Everyday Life (three terms)\r\n2013-16\tThe Art of Persuading Others (two terms)\n\n**Adjunct Instructor, Mercy College (NY)**\r\n2011\tMedia in America\n\n**Grader, New York University**\r\n2010\tAdvertising and Society\n\n**Assistant Teacher, Public School 9, Brooklyn, NY**\r\n2009-10\tReading and math, first grade classroom, through federal America Reads / America Counts program\n"
+    content: "**Instructor, University of Iowa**\r\n2016\tTelevision Criticism\r\n2012-13\tMedia, Advertising, and Society (two terms)\n\n**Teaching Assistant, University of Iowa**\r\n2017\tMedia, Music, and Culture\r\n2014-15\tCore Concepts in Communication Studies (two terms)\r\n2014-17\tCommunication Theory in Everyday Life (three terms)\r\n2013-16\tThe Art of Persuading Others (two terms)\n\n**Adjunct Instructor, Mercy College (NY)**\r\n2011\tMedia in America\n\n**Grader, New York University**\r\n2010\tAdvertising and Society\n\n**Assistant Teacher, Public School 9, Brooklyn, NY**\r\n2009-10\tReading and math, first grade classroom, through federal America Reads / America Counts program\n"
     actions: []
     type: section_content
   - section_id: teachingresponsibilities

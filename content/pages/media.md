@@ -43,7 +43,20 @@ sections:
     type: section_content
   - title: Animation
     image_alt: lorem-ipsum
-    content: "[University of Iowa Student Film (Partially Animated)](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)\n\n[\r\nGood Vibrations: Metamorphosis](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)\n\n[\r\n(Click link to view)](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)\n\n![](/images/Good%20Vibrations%20Image.png)\n"
+    content: >
+      ["Good Vibrations:
+      Metamorphosis"](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)
+
+
+      [University of Iowa Student Film (Partially
+      Animated)](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)
+
+
+      [(Click link to
+      view)](https://vimeo.com/277212674?fbclid=IwAR2H3r7LiB-3HjhXEfTW1l5XzNnzwZr2twLJ5bARwi2yCZwQAONxV-lwpJs)
+
+
+      ![](/images/Good%20Vibrations%20Image.png)
     actions: []
     type: section_content
     section_id: animation

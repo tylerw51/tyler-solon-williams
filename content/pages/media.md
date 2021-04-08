@@ -110,7 +110,7 @@ sections:
       Profile](https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg)
 
 
-      10 good public Spotify music playlists
+      Creator of 10 solid public Spotify music playlists
     actions: []
     type: section_content
   - title: Design & Art

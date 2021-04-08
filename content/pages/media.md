@@ -58,17 +58,10 @@ sections:
   - title: Student Collaboration
     section_id: studentcollaboration
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Interview collaboration with student Lev Cantoral
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      https://www.youtube.com/watch?v=5pH6LwuZjnU
     actions: []
     type: section_content
   - title: Editing

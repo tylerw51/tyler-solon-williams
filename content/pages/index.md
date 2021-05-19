@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      Tyler Solon Williams is graduating in May 2021 with a PhD in Communication
+      Tyler Solon Williams graduated in May 2021 with a PhD in Communication
       Studies from the University of Iowa
     actions:
       - label: Contact Me

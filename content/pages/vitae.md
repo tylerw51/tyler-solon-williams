@@ -6,7 +6,7 @@ sections:
     actions:
       - label: Download CV
         url: >-
-          https://drive.google.com/file/d/1B9DYzYutAs06P_3WUAJF9vaiixKBhGMD/view?usp=sharing
+          https://drive.google.com/file/d/1M1ezBhlQcaE7QzIEq1EjsOQSRhUxHT4I/view?usp=sharing
         style: button
         icon_class: dev
         new_window: true

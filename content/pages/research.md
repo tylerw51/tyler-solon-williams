@@ -54,10 +54,7 @@ sections:
       Understanding the Early Television Cartoon
 
 
-      Dissertation, Communication Studies
-
-
-      The University of Iowa, 2021
+      The University of Iowa, Communication Studies, 2021
 
 
       The television cartoon emerged in the postwar United States as animation

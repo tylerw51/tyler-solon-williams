@@ -119,17 +119,13 @@ sections:
     section_id: design&art
     image_alt: lorem-ipsum
     content: >
-      ##### Design (Color)
-
-
+      ##### Color Design
 
 
       ##### ![](/images/4%20Complementary%20Thumb.png)
 
 
-
-
-      ##### Design (Gestalt)&#xA;
+      ##### Gestalt Design&#xA;
 
 
       #####
@@ -137,9 +133,7 @@ sections:
       &#xA;
 
 
-      ##### Art (Pixel)
-
-
+      ##### Pixel Art
 
 
       ![](/images/Creatures%20Thumb.png)

@@ -108,11 +108,11 @@ sections:
     section_id: music
     image_alt: lorem-ipsum
     content: >
-      ##### [Spotify
-      Profile](https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg)
+      ##### [Music Curator and Amateur
+      DJ](https://open.spotify.com/user/tylerw51?si=9o8Ju4-6T8ShRambF-E3Tg)
 
 
-      Creator of 10 solid public Spotify music playlists
+      Spotify profile with 10 solid public music playlists
     actions: []
     type: section_content
   - title: Design & Art

@@ -33,7 +33,7 @@ sections:
   - title: Teaching Philosophy
     image_alt: lorem-ipsum
     content: >
-      Being part of a tight-knit learning community in a memorable college
+      Being part of a tight-knit learning community in a memorable undergraduate
       seminar can be a life-changing experience. Such alchemy can seem
       mysterious, but the basic components are known: when a teacher creates a
       welcoming environment and provides opportunities for engagement, students
@@ -81,8 +81,8 @@ sections:
       subsequent attempts to establish parameters, though, felt rigid to some.
       So, I worked to adapt to the simultaneous need for flexibility, being open
       to changing plans when natural. With this dual strategy, my evaluation
-      scores eventually exceeded my department’s average. I will soon complete a
-      CIRTL certification.
+      scores eventually exceeded my department’s average. I have been awarded a
+      CIRTL associate-level certification.
 
 
       My most popular teaching activity gamified test preparation in a course

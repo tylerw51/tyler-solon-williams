@@ -54,18 +54,13 @@ sections:
       Understanding the Early Television Cartoon
 
 
-      Communication Studies
+      Dissertation, Communication Studies
 
 
-      2021 The University of Iowa
+      The University of Iowa, 2021
 
 
-
-
-      ABSTRACT
-
-
-      The television cartoon emerged in the postwar United States when animation
+      The television cartoon emerged in the postwar United States as animation
       mediated television and television simplified animation. This vibrant
       media form has long since outgrown comparisons with cinema animation, for
       today its influence is everywhere. Traditional artistic animation may be a
@@ -85,13 +80,14 @@ sections:
 
 
       This dissertation builds upon the tentative consensus of earlier accounts
-      to proposes a theoretical model to explain the early television cartoon as
+      to propose a theoretical model explaining the early television cartoon as
       a media form through seven familiar principles, largely in Part 2. These
       include rationalization, story, character, style, sound, and performance.
-      This is how animation survived in new forms, and the industry transformed.
-      In the end, the graphical interfaces of early personal computers and video
-      games borrowed the economical model of limited animation, building a
-      foundation for future digital media devices.
+      Animation survived in this newer cartoon form on television, transforming
+      the animation industry. Beginning in the 1980s, the graphical interfaces
+      of early personal computers and video games borrowed the economical model
+      of limited animation from television, building a foundation for future
+      digital media devices.
     actions: []
     type: section_content
   - title: Publications

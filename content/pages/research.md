@@ -96,7 +96,7 @@ sections:
   - title: Awards & Fellowships
     section_id: awards&fellowships
     image_alt: lorem-ipsum
-    content: "2020\tSociety for Animation Studies COVID-19 Stimulus Fund Award, with Kevin Sandler, Society for Animation Studies\n\n2020\tGraduate College Summer Fellowship, Graduate College, University of Iowa\n\n2016-17\tDepartment of Communication Studies Dissertation Award, University of Iowa\n\n2016-17\tGraduate Student Senate (GSS) travel awards, University of Iowa (two years)\n\n2013-17\tDepartment of Communication Studies Harshbarger conference presentation travel awards, University of Iowa (five years)\n\n2010\tInformal recognition of teaching (glass apple), Mrs. Ingrid Marshall, PS 9, Brooklyn, NY\n"
+    content: "2020\tSociety for Animation Studies COVID-19 Stimulus Fund Award, with Kevin Sandler, Society for Animation Studies\n\n2020\tGraduate College Summer Fellowship, Graduate College, University of Iowa\n\n2016-17\tDepartment of Communication Studies Dissertation Award, University of Iowa\n\n2016-17\tGraduate Student Senate Travel Awards, University of Iowa (two years)\n\n2013-17\tDepartment of Communication Studies Harshbarger Conference Presentation Travel Awards, University of Iowa (five years)\n\n2010\tInformal recognition of teaching (glass apple), Mrs. Ingrid Marshall, PS 9, Brooklyn, NY\n"
     actions: []
     type: section_content
   - title: Presentations

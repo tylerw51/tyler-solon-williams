@@ -81,8 +81,10 @@ sections:
   - title: Editing
     section_id: editing
     image_alt: lorem-ipsum
-    content: |
-      [Professional Editor and Proofreader](https://reedsy.com/tyler-williams)
+    content: >
+      ##### [Professional Editor and
+      Proofreader](https://reedsy.com/tyler-williams)
+
 
       Reedsy book publishing editor profile
     actions: []

@@ -82,9 +82,9 @@ sections:
     section_id: editing
     image_alt: lorem-ipsum
     content: |
-      ##### [Reedsy Editor Profile](https://reedsy.com/tyler-williams)
+      [Professional Editor and Proofreader](https://reedsy.com/tyler-williams)
 
-      Professional editor and proofreader
+      Reedsy book publishing editor profile
     actions: []
     type: section_content
   - title: Gaming

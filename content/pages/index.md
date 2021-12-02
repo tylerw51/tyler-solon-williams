@@ -38,7 +38,7 @@ sections:
       television in the early years of the medium.
 
 
-      Tyler has six years of experience teaching media studies, interpersonal
+      Tyler has seven years of experience teaching media studies, interpersonal
       communication, and rhetoric.
     actions: []
 seo:

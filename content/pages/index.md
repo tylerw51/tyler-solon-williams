@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >+
+    content: >
       Tyler Solon Williams is a Faculty Lecturer of Media Studies at the
-      University of Virginia.
-
+      University of Virginia
     actions:
       - label: Contact Me
         url: /contact/

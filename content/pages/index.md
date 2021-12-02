@@ -4,9 +4,10 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >
-      Tyler Solon Williams graduated in May 2021 with a PhD in Communication
-      Studies from the University of Iowa
+    content: >+
+      Tyler Solon Williams is a Faculty Lecturer of Media Studies at the
+      University of Virginia.
+
     actions:
       - label: Contact Me
         url: /contact/
